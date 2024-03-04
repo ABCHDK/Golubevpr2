@@ -1,0 +1,6 @@
+.vs/
+App.config
+Properties/
+GolubevGit.csproj
+GolubevGit.sln
+obj/
